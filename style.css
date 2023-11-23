@@ -269,6 +269,7 @@ header .right-side button i{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 12px;
+    padding-bottom: 16px;
 }
 .latest-item{
     display: flex;
@@ -310,10 +311,11 @@ header .right-side button i{
     gap: 20px;
     width: 100%;
     overflow: hidden;
+    padding-bottom: 2rem;
 }
 .album-menu h3{
     color: var(--text-color);
-    padding-top: 32px;
+    padding-top: 16px;
     padding-bottom: 16px;
 }
 .album-menu .menu-item{
