@@ -1,4 +1,4 @@
-# Responsive Spotify landing page clone design with HTML & CSS
+# Spotify clone project
 
-### Responcive Design
+### Responsive Design
 ![Landing Page](./img/Untitled%20design-min.gif)
